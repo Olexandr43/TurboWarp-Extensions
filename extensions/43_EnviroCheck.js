@@ -1,7 +1,7 @@
 // Get ALL possible information from system and browser ( geolocation and IP included :3 )
 // Olexandr_43
 // Wi-Fi
-// 09/21/2024
+// 09/22/2024
 
 (function (Scratch) {
     'use strict';
@@ -158,7 +158,7 @@
         }
 
         getBrowserLanguage() {
-            return `Browser language: ${navigator.language}`;
+            return `${navigator.language}`;
         }
 
         isTouchScreen() {
@@ -170,7 +170,7 @@
         }
 
         getHistoryLength() {
-            return `History length: ${window.history.length}`;
+            return `${window.history.length}`;
         }
 
         cookiesEnabled() {
