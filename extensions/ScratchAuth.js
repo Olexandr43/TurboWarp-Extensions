@@ -1,5 +1,6 @@
-// ScratchAuth port from PenguinMod by Olexandr_43
-// Works in TurboWarp!!!
+// Interact with Scratch Authentication to prove the player is a real scratch user.
+// Olexandr_43
+// Wi-Fi
 
 class JgScratchAuthenticateBlocks {
   constructor() {
