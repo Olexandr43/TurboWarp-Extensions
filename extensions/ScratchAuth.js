@@ -1,5 +1,5 @@
 // Interact with Scratch Authentication to prove the player is a real scratch user.
-// Olexandr_43
+// Olexandr_43 [Just Ported]
 // Wi-Fi
 
 class JgScratchAuthenticateBlocks {
