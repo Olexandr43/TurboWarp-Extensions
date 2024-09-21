@@ -1,7 +1,7 @@
 // Interact with Scratch Authentication to prove the player is a real scratch user.
 // Olexandr_43 [Just Ported]
 // Wi-Fi
-// Updated: 09/21/2024
+// 09/21/2024
 
 class JgScratchAuthenticateBlocks {
   constructor() {
