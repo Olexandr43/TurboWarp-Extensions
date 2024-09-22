@@ -1,4 +1,4 @@
-// Get ALL possible information from system and browser( geolocation and IP included :3 )
+// Get ALL possible information from system and browser( geolocation and IP included )
 // Olexandr_43
 // Wi-Fi
 // 09/22/2024
